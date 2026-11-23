@@ -1,0 +1,10 @@
+/* Shared header geometry and typography on all website sections. */
+@font-face{font-family:FrameDisplay;src:url('../assets/fonts/Anton-Regular.ttf') format('truetype');font-display:swap}@font-face{font-family:FrameText;src:url('../assets/fonts/RobotoCondensed.ttf') format('truetype');font-display:swap}
+body .site-header,body.home-editorial .site-header,body.section-preview .site-header{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:24px 3%;min-height:86px;border-bottom:1px solid #111;background:#fff}
+body .site-header .wordmark,body.home-editorial .site-header .wordmark,body.section-preview .site-header .wordmark{display:block;margin:0;font:400 38px/1 FrameDisplay,Impact,sans-serif;letter-spacing:-.045em;color:#080808;text-decoration:none;white-space:nowrap}
+body .site-header .wordmark span{font:inherit;letter-spacing:inherit}
+body .site-header #navigation,body.home-editorial .site-header #navigation,body.section-preview .site-header #navigation{display:flex!important;flex-wrap:wrap;justify-content:flex-end;align-items:center;gap:12px 22px}
+body .site-header #navigation a,body.home-editorial .site-header #navigation a,body.section-preview .site-header #navigation a{font:400 14px/1.5 FrameText,'Arial Narrow',Arial,sans-serif;color:#080808;text-decoration:none;white-space:nowrap}
+body .site-header #navigation a[aria-current=page]{text-decoration:underline;text-decoration-color:#e83e16;text-decoration-thickness:2px;text-underline-offset:6px}
+body .site-header .header-issue,body .site-header .menu-toggle{display:none}
+@media(max-width:1100px){body .site-header,body.home-editorial .site-header,body.section-preview .site-header{flex-direction:column;align-items:flex-start;padding:20px 3%;gap:20px}body .site-header #navigation,body.home-editorial .site-header #navigation,body.section-preview .site-header #navigation{justify-content:flex-start}}

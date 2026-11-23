@@ -1,0 +1,12 @@
+#printable-checklist{display:none}.print-help{font-size:12px}.print-list{margin:5px 0;border-bottom:3px solid #e83e16!important}
+@media print{
+ @page{margin:18mm}
+ body.printing-checklist{margin:0!important;padding:0!important;max-width:none!important;background:white!important;color:black!important;font:12pt/1.5 Arial,sans-serif!important}
+ body.printing-checklist>*:not(#printable-checklist){display:none!important}
+ body.printing-checklist #printable-checklist{display:block!important;margin:0;padding:0}
+ #printable-checklist h1{font:bold 24pt/1.2 Arial,sans-serif!important;text-transform:none!important;margin:10mm 0 5mm!important;color:black!important}
+ #printable-checklist>p{font:10pt/1.5 Arial,sans-serif!important}
+ #printable-checklist ul{list-style:none;padding:0;margin:8mm 0}
+ #printable-checklist li{display:flex;gap:4mm;align-items:baseline;border-bottom:1px solid #aaa;padding:3mm 0;break-inside:avoid}
+ #printable-checklist li>span:last-child{margin-left:auto}.print-box{font:16pt 'DejaVu Sans',Arial,sans-serif}
+}

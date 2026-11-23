@@ -1,0 +1,677 @@
+[
+  {
+    "id": "rob-reiner",
+    "name": "Rob Reiner",
+    "bio": "Robert Reiner (; March 6, 1947 – December 14, 2025) was an American filmmaker, actor, and political activist.",
+    "style": "Ensemble performances give friendships and emotional turning points an accessible intimacy.",
+    "biography": "Robert Reiner (; March 6, 1947 – December 14, 2025) was an American filmmaker, actor, and political activist. He directed a series of acclaimed studio films in a career that spanned comedy, drama, romance, and documentary. Reiner received numerous accolades, including winning three Primetime Emmy Awards and a Hugo Award, as well as nominations for an Academy Award, a BAFTA Award, and nine Golden Globe Awards.",
+    "biographySource": "https://en.wikipedia.org/wiki/Rob_Reiner",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "francois-truffaut",
+    "name": "François Truffaut",
+    "bio": "François Roland Truffaut (UK: TROO-foh, TRUU-, US: troo-FOH; French: ; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic.",
+    "style": "Restless movement and emotional directness give young characters room to resist authority.",
+    "biography": "François Roland Truffaut (UK: TROO-foh, TRUU-, US: troo-FOH; French: ; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic. Widely regarded as one of the founders of the French New Wave, he came under the tutelage of film critic André Bazin as a young man and was hired to write for the latter's Cahiers du Cinéma, where Truffaut became a proponent of the auteur theory, which posits that a film's director is its true author. The 400 Blows (1959), starring Jean-Pierre Léaud as Truffaut's alter ego Antoine Doinel, was a defining film of the New Wave.",
+    "biographySource": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Truffaut",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "joseph-ruben",
+    "name": "Joseph Ruben",
+    "bio": "Joseph Porter Ruben (born May 10, 1950) is an American retired filmmaker.",
+    "style": "Familiar relationships and homes become settings for concealed threats.",
+    "biography": "Joseph Porter Ruben (born May 10, 1950) is an American retired filmmaker. He is best known for directing The Stepfather (1987) and Sleeping with the Enemy (1991).",
+    "biographySource": "https://en.wikipedia.org/wiki/Joseph_Ruben",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jim-jarmusch",
+    "name": "Jim Jarmusch",
+    "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician.",
+    "style": "Deadpan humour, music and unhurried rhythms leave space for chance and quiet companionship.",
+    "biography": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Permanent Vacation (1980), Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002.",
+    "biographySource": "https://en.wikipedia.org/wiki/Jim_Jarmusch",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jacques-tati",
+    "name": "Jacques Tati",
+    "bio": "Jacques Tati was a French mime, filmmaker, actor and screenwriter.",
+    "style": "Wide compositions and intricate sound invite the eye to discover jokes across the frame.",
+    "biography": "Jacques Tati was a French mime, filmmaker, actor and screenwriter. He is best known for portraying the character Monsieur Hulot in his films Les Vacances de Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967), and Trafic (1971). Tati's first three films were made through the production company he co-founded with Fred Orain, Cady Films.",
+    "biographySource": "https://en.wikipedia.org/wiki/Jacques_Tati",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "chris-columbus",
+    "name": "Chris Columbus",
+    "bio": "Christopher Joseph Columbus (born September 10, 1958) is an American filmmaker.",
+    "style": "Escalating mishaps and ensemble reactions turn ordinary situations into large comic journeys.",
+    "biography": "Christopher Joseph Columbus (born September 10, 1958) is an American filmmaker. Born in Spangler, Pennsylvania, Columbus studied film at New York University's Tisch School of the Arts where he developed an interest in filmmaking. After writing screenplays for several teen comedies in the mid-1980s, including Gremlins, The Goonies, and Young Sherlock Holmes, he made his directorial debut with a teen adventure, Adventures in Babysitting (1987).",
+    "biographySource": "https://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "m-night-shyamalan",
+    "name": "M. Night Shyamalan",
+    "bio": "Manoj Nelliyattu Shyamalan (born August 6, 1970), known professionally as M.",
+    "style": "Quiet observation and withheld information make ordinary spaces feel uncertain.",
+    "biography": "Manoj Nelliyattu Shyamalan (born August 6, 1970), known professionally as M. Night Shyamalan, is an American filmmaker and actor. His films often employ supernatural plots and twist endings.",
+    "biographySource": "https://en.wikipedia.org/wiki/M._Night_Shyamalan",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "clint-eastwood",
+    "name": "Clint Eastwood",
+    "bio": "Clinton Eastwood Jr. (born May 31, 1930) is an American retired actor and filmmaker.",
+    "style": "Restrained performances and measured pacing often leave room for regret and moral uncertainty.",
+    "biography": "Clinton Eastwood Jr. (born May 31, 1930) is an American retired actor and filmmaker. After achieving success in the Western TV series Rawhide, Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone's Dollars Trilogy of spaghetti Westerns during the mid-1960s and as antihero cop Harry Callahan in the five Dirty Harry films throughout the 1970s and 1980s. These roles, among others, have made Eastwood an enduring cultural icon of masculinity.",
+    "biographySource": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "woody-allen",
+    "name": "Woody Allen",
+    "bio": "Woody Allen (born Allan Stewart Konigsberg; November 30, 1935) is an American filmmaker, actor, writer, and comedian.",
+    "style": "Urban conversations and competing desires expose the distance between self-image and behaviour.",
+    "biography": "Woody Allen (born Allan Stewart Konigsberg; November 30, 1935) is an American filmmaker, actor, writer, and comedian. In a career spanning more than seven decades, he has written for film, television, and theater. As a screenwriter, Allen holds the record of most wins (3) and nominations (16) for the Academy Award for Best Original Screenplay.",
+    "biographySource": "https://en.wikipedia.org/wiki/Woody_Allen",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "penny-marshall",
+    "name": "Penny Marshall",
+    "bio": "Carole Penny Marshall (October 15, 1943 – December 17, 2018) was an American actress, film director, and producer.",
+    "style": "Warm performances let unusual premises develop through recognisable human reactions.",
+    "biography": "Carole Penny Marshall (October 15, 1943 – December 17, 2018) was an American actress, film director, and producer. She starred as Laverne DeFazio on the television sitcom Laverne & Shirley from 1976 to 1983, and received three nominations for the Golden Globe Award for Best Actress – Television Series Musical or Comedy for her portrayal. Marshall made her directorial debut with Jumpin' Jack Flash (1986) before directing Big (1988), which became the first film directed by a woman to gross more than $100 million at the U.S. box office.",
+    "biographySource": "https://en.wikipedia.org/wiki/Penny_Marshall",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "pedro-almodovar",
+    "name": "Pedro Almodóvar",
+    "bio": "Pedro Almodóvar Caballero (Spanish: ; born 25 September 1949) is a Spanish film director, screenwriter and author.",
+    "style": "Expressive colour and melodramatic encounters give complex relationships a vivid theatrical form.",
+    "biography": "Pedro Almodóvar Caballero (Spanish: ; born 25 September 1949) is a Spanish film director, screenwriter and author. His films are distinguished by melodrama, irreverent humour, bold colour, glossy décor, quotations from popular culture, and complex narratives. Desire, LGBTQ issues, passion, family, motherhood, and identity are among Almodóvar's most frequently explored subjects.",
+    "biographySource": "https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "robert-mandel",
+    "name": "Robert Mandel",
+    "bio": "Robert Mandel (born 1945) is a film and television director and producer from Oakland, California.",
+    "style": "Institutional settings and social expectations place personal loyalties under pressure.",
+    "biography": "Robert Mandel (born 1945) is a film and television director and producer from Oakland, California. He is best known for directing School Ties, which includes early film roles in the careers of Brendan Fraser, Matt Damon, Ben Affleck, Cole Hauser and Chris O'Donnell.",
+    "biographySource": "https://en.wikipedia.org/wiki/Robert_Mandel",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "orson-welles",
+    "name": "Orson Welles",
+    "bio": "George Orson Welles (May 6, 1915 – October 10, 1985) was an American actor and filmmaker.",
+    "style": "Layered compositions and fractured accounts make perspective part of the story.",
+    "biography": "George Orson Welles (May 6, 1915 – October 10, 1985) was an American actor and filmmaker. Remembered for his innovative work in film, radio, and theatre, he is considered among the greatest and most influential filmmakers of all time. Aged 21, Welles directed high-profile stage productions for the Federal Theatre Project in New York City—starting with a celebrated 1936 adaptation of Macbeth with an African-American cast, and ending with the political musical The Cradle Will Rock in 1937.",
+    "biographySource": "https://en.wikipedia.org/wiki/Orson_Welles",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "leonard-nimoy",
+    "name": "Leonard Nimoy",
+    "bio": "Leonard Simon Nimoy ( NEE-moy; March 26, 1931 – February 27, 2015) was an American actor and director, famous for playing Spock in the Star Trek franchise for over 40 years.",
+    "style": "Performance and ensemble relationships guide stories built around unfamiliar situations.",
+    "biography": "Leonard Simon Nimoy ( NEE-moy; March 26, 1931 – February 27, 2015) was an American actor and director, famous for playing Spock in the Star Trek franchise for over 40 years. This includes originating Spock in the original Star Trek series in 1966, then Star Trek: The Animated Series, the first six Star Trek films, Star Trek: The Next Generation, the 2009 Star Trek film, and Star Trek Into Darkness. Nimoy also directed films, including Star Trek III: The Search for Spock (1984), Star Trek IV: The Voyage Home (1986), and Three Men and a Baby (1987), and his career included roles in music videos and video games.",
+    "biographySource": "https://en.wikipedia.org/wiki/Leonard_Nimoy",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jonathan-demme",
+    "name": "Jonathan Demme",
+    "bio": "Robert Jonathan Demme ( DEM-ee; February 22, 1944 – April 26, 2017) was an American filmmaker.",
+    "style": "Close attention to faces and performance gives encounters an immediate human intensity.",
+    "biography": "Robert Jonathan Demme ( DEM-ee; February 22, 1944 – April 26, 2017) was an American filmmaker. His career of directing, producing, and screenwriting spanned more than 30 years and 70 feature films, documentaries, and television productions. In addition to being an Academy Award and a Directors Guild of America Award winner, he received nominations for a BAFTA Award, a Golden Globe Award, and three Independent Spirit Awards.",
+    "biographySource": "https://en.wikipedia.org/wiki/Jonathan_Demme",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "wes-anderson",
+    "name": "Wes Anderson",
+    "bio": "Wesley Wales Anderson (born May 1, 1969) is an American filmmaker.",
+    "style": "Symmetry, chapter divisions and precise design coexist with awkward emotional exchanges.",
+    "biography": "Wesley Wales Anderson (born May 1, 1969) is an American filmmaker. His films are known for themes of grief, loss of innocence, and dysfunctional families. Due to his films' eccentricity, distinctive visual and narrative styles, and frequent use of ensemble casts, critics have described Anderson as an auteur.",
+    "biographySource": "https://en.wikipedia.org/wiki/Wes_Anderson",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "michael-powell-and-emeric-pressburger",
+    "name": "Michael Powell and Emeric Pressburger",
+    "bio": "The British film-making partnership of Michael Powell (1905–1990) and Emeric Pressburger (1902–1988)—together often known as The Archers, the name of their production company—made a series of influential films in the 1940s and 1950s.",
+    "style": "Heightened colour and theatrical spaces give interior desires a vivid physical presence.",
+    "biography": "The British film-making partnership of Michael Powell (1905–1990) and Emeric Pressburger (1902–1988)—together often known as The Archers, the name of their production company—made a series of influential films in the 1940s and 1950s. Their collaborations—24 films between 1939 and 1972—were mainly derived from original stories by Pressburger with the script written by both Pressburger and Powell. Powell did most of the directing while Pressburger did most of the work of the producer and also assisted with the editing, especially the way the music was used.",
+    "biographySource": "https://en.wikipedia.org/wiki/Powell_and_Pressburger",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "martin-brest",
+    "name": "Martin Brest",
+    "bio": "Martin Brest (born August 8, 1951) is an American film director, screenwriter, and producer.",
+    "style": "Contrasting personalities turn journeys and confrontations into tests of self-understanding.",
+    "biography": "Martin Brest (born August 8, 1951) is an American film director, screenwriter, and producer. After his feature debut, Going in Style (1979), he directed the action comedies Beverly Hills Cop (1984) and Midnight Run (1988), which were critical and commercial hits. He then directed Scent of a Woman (1992), starring Al Pacino, who won the Academy Award for Best Actor for his performance, and earned Brest nominations for Best Director and Best Picture.",
+    "biographySource": "https://en.wikipedia.org/wiki/Martin_Brest",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "paul-verhoeven",
+    "name": "Paul Verhoeven",
+    "bio": "Paul Verhoeven (Dutch: ; born 18 July 1938) is a Dutch filmmaker, who has worked variously in the Netherlands, the United States, and in France.",
+    "style": "Provocation and exaggerated surfaces invite scrutiny of power, desire and spectacle.",
+    "biography": "Paul Verhoeven (Dutch: ; born 18 July 1938) is a Dutch filmmaker, who has worked variously in the Netherlands, the United States, and in France. He is known for directing genre films with strong satirical elements, often featuring graphic violence and explicit sexual content and nudity. Many of his films are considered provocative, and were controversial when released.",
+    "biographySource": "https://en.wikipedia.org/wiki/Paul_Verhoeven",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "michael-curtiz",
+    "name": "Michael Curtiz",
+    "bio": "Michael Curtiz (; born Manó Kaminer; from 1905 Mihály Kertész; Hungarian: Kertész Mihály; December 25, 1886 – April 10, 1962) was a Hungarian and American film director, recognized as one of the most prolific directors in history.",
+    "style": "Expressive lighting and fluid staging give dramatic encounters a vivid atmosphere.",
+    "biography": "Michael Curtiz (; born Manó Kaminer; from 1905 Mihály Kertész; Hungarian: Kertész Mihály; December 25, 1886 – April 10, 1962) was a Hungarian and American film director, recognized as one of the most prolific directors in history. He directed classic films from the silent era and numerous others during Hollywood's Golden Age, when the studio system was prevalent. Curtiz was already a well-known director in Europe when Warner Bros. invited him to Hollywood in 1926, when he was 39 years of age.",
+    "biographySource": "https://en.wikipedia.org/wiki/Michael_Curtiz",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "john-hughes",
+    "name": "John Hughes",
+    "bio": "Jonathan Wilden Hughes Jr. (February 18, 1950 – August 6, 2009) was an American filmmaker, writer, and producer.",
+    "style": "Teenage social divisions become a starting point for conversations about identity and vulnerability.",
+    "biography": "Jonathan Wilden Hughes Jr. (February 18, 1950 – August 6, 2009) was an American filmmaker, writer, and producer. He is best known for writing, directing, and producing the films Sixteen Candles (1984), The Breakfast Club (1985), Weird Science (1985), Ferris Bueller's Day Off (1986), Planes, Trains and Automobiles (1987), and Uncle Buck (1989), in addition to writing the films Pretty in Pink (1986), National Lampoon's Christmas Vacation (1989), Home Alone (1990), 101 Dalmatians (1996), and Flubber (1997). Widely considered an icon of the 1980s whose coming-of-age stories captured the teenage experience, Hughes set most of his films in Chicago, where he spent his teenage years.",
+    "biographySource": "https://en.wikipedia.org/wiki/John_Hughes",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "frank-darabont",
+    "name": "Frank Darabont",
+    "bio": "Frank Árpád Darabont (born Ferenc Árpád Darabont, January 28, 1959) is an American screenwriter, director, and producer.",
+    "style": "Patient storytelling foregrounds endurance, friendship and the possibility of hope.",
+    "biography": "Frank Árpád Darabont (born Ferenc Árpád Darabont, January 28, 1959) is an American screenwriter, director, and producer. He has been nominated for three Academy Awards and a Golden Globe Award. In his early career, he was primarily a screenwriter for horror films such as A Nightmare on Elm Street 3: Dream Warriors (1987), The Blob (1988), and The Fly II (1989).",
+    "biographySource": "https://en.wikipedia.org/wiki/Frank_Darabont",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "the-wachowskis",
+    "name": "The Wachowskis",
+    "bio": "Lana Wachowski (; formerly Larry Wachowski, born June 21, 1965) and Lilly Wachowski (formerly Andy Wachowski, born December 29, 1967) are American film and television directors, writers and producers.",
+    "style": "Inventive action and constructed worlds make questions of identity and control visible.",
+    "biography": "Lana Wachowski (; formerly Larry Wachowski, born June 21, 1965) and Lilly Wachowski (formerly Andy Wachowski, born December 29, 1967) are American film and television directors, writers and producers. Together known as the Wachowskis, the sisters are both trans women and have worked as a writing and directing team throughout most of their careers. They made their directing debut with Bound (1996), and achieved fame with The Matrix (1999), a major box-office success for which they won the Saturn Award for Best Director.",
+    "biographySource": "https://en.wikipedia.org/wiki/The_Wachowskis",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "abbas-kiarostami",
+    "name": "Abbas Kiarostami",
+    "bio": "Abbas Kiarostami (Persian: عباس کیارستمی ; 22 June 1940 – 4 July 2016) was an Iranian film director, screenwriter, poet, photographer, and film producer.",
+    "style": "Journeys, conversations and open endings ask the audience to participate in meaning.",
+    "biography": "Abbas Kiarostami (Persian: عباس کیارستمی ; 22 June 1940 – 4 July 2016) was an Iranian film director, screenwriter, poet, photographer, and film producer. An active filmmaker from 1970, Kiarostami had been involved in the production of over forty films, including multiple shorts and documentaries. Kiarostami attained critical acclaim for directing the Koker trilogy (1987–1994), Close-Up (1990), The Wind Will Carry Us (1999), and Taste of Cherry (1997), which was awarded the Palme d'Or at the Cannes Film Festival that year.",
+    "biographySource": "https://en.wikipedia.org/wiki/Abbas_Kiarostami",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "bong-joon-ho",
+    "name": "Bong Joon-ho",
+    "bio": "Bong Joon Ho is a South Korean filmmaker.",
+    "style": "Shifting tones and carefully organised spaces expose tensions between social groups.",
+    "biography": "Bong Joon Ho is a South Korean filmmaker. His work is characterized by emphasis on social and class themes, genre-mixing, dark comedy, and sudden tone shifts. He is the recipient of numerous accolades including three Academy Awards, two British Academy Film Awards, and five Asian Film Awards, as well as nominations for two Golden Globe Awards.",
+    "biographySource": "https://en.wikipedia.org/wiki/Bong_Joon_Ho",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "emile-ardolino",
+    "name": "Emile Ardolino",
+    "bio": "Emile Ardolino (May 9, 1943 – November 20, 1993) was an American television and film director and producer, best known for his work on the films Dirty Dancing (1987) and Sister Act (1992).",
+    "style": "Performance and physical connection help characters cross social boundaries.",
+    "biography": "Emile Ardolino (May 9, 1943 – November 20, 1993) was an American television and film director and producer, best known for his work on the films Dirty Dancing (1987) and Sister Act (1992). He won an Academy Award for Best Documentary Feature for his film He Makes Me Feel Like Dancin' (1983).",
+    "biographySource": "https://en.wikipedia.org/wiki/Emile_Ardolino",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "alfred-hitchcock",
+    "name": "Alfred Hitchcock",
+    "bio": "Sir Alfred Joseph Hitchcock (13 August 1899 – 29 April 1980) was an English filmmaker.",
+    "style": "Restricted information, subjective viewpoints and uneasy identification shape his thrillers.",
+    "biography": "Sir Alfred Joseph Hitchcock (13 August 1899 – 29 April 1980) was an English filmmaker. He is widely regarded as one of the greatest and most influential figures in the history of cinema. In a career spanning six decades, he directed over 50 feature films, many of which are still widely watched and studied today.",
+    "biographySource": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "sidney-lumet",
+    "name": "Sidney Lumet",
+    "bio": "Sidney Arthur Lumet ( loo-MET; June 25, 1924 – April 9, 2011) was an American film director.",
+    "style": "Careful blocking and sustained exchanges place ethical decisions under increasing pressure.",
+    "biography": "Sidney Arthur Lumet ( loo-MET; June 25, 1924 – April 9, 2011) was an American film director. Lumet started his career in theatre before moving to directing television in 1950, and then directing films from 1957, where he gained a reputation for making realistic and gritty New York dramas that focused on the working class, tackled social injustices, and often questioned authority. He received various accolades including an Academy Honorary Award and a Golden Globe Award as well as nominations for nine British Academy Film Awards and a Primetime Emmy Award.",
+    "biographySource": "https://en.wikipedia.org/wiki/Sidney_Lumet",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "ridley-scott",
+    "name": "Ridley Scott",
+    "bio": "Sir Ridley Scott (born 30 November 1937) is an English filmmaker.",
+    "style": "Dense environments and atmospheric lighting give imagined worlds a strong physical presence.",
+    "biography": "Sir Ridley Scott (born 30 November 1937) is an English filmmaker. His work includes science fiction, crime, and historical epic films, with an atmospheric and highly concentrated visual style. Scott is the eighth-highest-grossing director of all time, with his films grossing a cumulative $5 billion worldwide.",
+    "biographySource": "https://en.wikipedia.org/wiki/Ridley_Scott",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "andrei-tarkovsky",
+    "name": "Andrei Tarkovsky",
+    "bio": "Andrei Arsenyevich Tarkovsky was a Soviet film director and screenwriter of Russian origin.",
+    "style": "Long takes, water and layered spaces create a contemplative rhythm.",
+    "biography": "Andrei Arsenyevich Tarkovsky was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery, and preoccupation with nature and memory.",
+    "biographySource": "https://en.wikipedia.org/wiki/Andrei_Tarkovsky",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "don-siegel",
+    "name": "Don Siegel",
+    "bio": "Donald Siegel ( SEE-gəl; October 26, 1912 – April 20, 1991) was an American film and television director, producer, and editor.",
+    "style": "Urban locations and economical action give moral conflict a hard edge.",
+    "biography": "Donald Siegel ( SEE-gəl; October 26, 1912 – April 20, 1991) was an American film and television director, producer, and editor. He was described by The New York Times as \"a director of tough, cynical and forthright action-adventure films whose taut plots centered on individualistic loners\". Siegel directed the science fiction horror film Invasion of the Body Snatchers (1956), as well as five films with Clint Eastwood, including the action thriller Dirty Harry (1971) and the prison thriller Escape from Alcatraz (1979).",
+    "biographySource": "https://en.wikipedia.org/wiki/Don_Siegel",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jane-campion",
+    "name": "Jane Campion",
+    "bio": "Dame Elizabeth Jane Campion (born (1954-04-30)April 30, 1954) is a New Zealand filmmaker whose accolades include two Academy Awards.",
+    "style": "Physical landscapes and intimate gestures bring unspoken conflicts into the image.",
+    "biography": "Dame Elizabeth Jane Campion (born (1954-04-30)April 30, 1954) is a New Zealand filmmaker whose accolades include two Academy Awards. From a feminist perspective, her films often explore themes such as female desire, sexuality, autonomy, and artistic expression, often portraying women’s pursuit of freedom and independence through their conflicts with patriarchy and tradition. Campion is best known for writing and directing the critically acclaimed films The Piano (1993), which earned her the Academy Award for Best Original Screenplay, and The Power of the Dog (2021), which earned her the Academy Award for Best Director, becoming only the third woman to win the award (after Kathryn Bigelow and Chloé Zhao).",
+    "biographySource": "https://en.wikipedia.org/wiki/Jane_Campion",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "greta-gerwig",
+    "name": "Greta Gerwig",
+    "bio": "Greta Celeste Gerwig ( GUR-wig; born August 4, 1983) is an American actress and filmmaker.",
+    "style": "Energetic conversations and attention to ambition, friendship and family shape her characters’ changing identities.",
+    "biography": "Greta Celeste Gerwig ( GUR-wig; born August 4, 1983) is an American actress and filmmaker. She was initially known for working on various mumblecore films, such as Baghead (2008) and Yeast (2008), in which she became an important figure in the movement. Since then she has expanded from acting in and co-writing independent films to directing major studio films.",
+    "biographySource": "https://en.wikipedia.org/wiki/Greta_Gerwig",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "peter-weir",
+    "name": "Peter Weir",
+    "bio": "Peter Lindsay Weir AM ( WEER; born 21 August 1944) is an Australian retired film director, screenwriter, and producer.",
+    "style": "Atmosphere and withheld explanations allow uncertainty to linger.",
+    "biography": "Peter Lindsay Weir AM ( WEER; born 21 August 1944) is an Australian retired film director, screenwriter, and producer. He directed films crossing various genres over forty years, such as Homesdale (1971), Picnic at Hanging Rock (1975), The Plumber (1979), Gallipoli (1981), The Year of Living Dangerously (1982), Witness (1985), The Mosquito Coast (1986), Dead Poets Society (1989), Fearless (1993), The Truman Show (1998), Master and Commander: The Far Side of the World (2003), and The Way Back (2010). He has received six Academy Award nominations and he has won two AACTA Award for Best Direction and two BAFTA Award for Best Direction.",
+    "biographySource": "https://en.wikipedia.org/wiki/Peter_Weir",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "chantal-akerman",
+    "name": "Chantal Akerman",
+    "bio": "Chantal Anne Akerman (French: ; 6 June 1950 – 5 October 2015) was a Belgian filmmaker, artist, and film professor at the City College of New York (2011–2015).",
+    "style": "Duration, repetition and precise framing ask viewers to reconsider the weight of ordinary routines.",
+    "biography": "Chantal Anne Akerman (French: ; 6 June 1950 – 5 October 2015) was a Belgian filmmaker, artist, and film professor at the City College of New York (2011–2015). Akerman is best known for her films Je Tu Il Elle (1974), Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975), and News from Home (1976). The second of these was ranked the greatest film of all time in Sight & Sound magazine's 2022 \"Greatest Films of All Time\" critics poll, making her the first woman to top the poll.",
+    "biographySource": "https://en.wikipedia.org/wiki/Chantal_Akerman",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "stephen-daldry",
+    "name": "Stephen Daldry",
+    "bio": "Stephen David Daldry CBE (born 2 May 1960) is an English director and producer of film, theatre, and television.",
+    "style": "Individual aspirations are framed against the expectations of families and communities.",
+    "biography": "Stephen David Daldry CBE (born 2 May 1960) is an English director and producer of film, theatre, and television. His accolades include two BAFTA Awards, two Emmy Awards, a Laurence Olivier Award and three Tony Awards as well as nominations for three Academy Awards and two Golden Globe Awards. He was made a Commander of the Order of the British Empire (CBE) by Queen Elizabeth II in 2003.",
+    "biographySource": "https://en.wikipedia.org/wiki/Stephen_Daldry",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "agnes-varda",
+    "name": "Agnès Varda",
+    "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer.",
+    "style": "Her work brings observation, curiosity and playful construction into conversation.",
+    "biography": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema.",
+    "biographySource": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "federico-fellini",
+    "name": "Federico Fellini",
+    "bio": "Federico Fellini (Italian: ; 20 January 1920 – 31 October 1993) was an Italian film director and screenwriter known for his distinctive style that blends fantasy and baroque images with earthiness.",
+    "style": "Processions, spectacle and expressive faces turn recollection into theatrical worlds.",
+    "biography": "Federico Fellini (Italian: ; 20 January 1920 – 31 October 1993) was an Italian film director and screenwriter known for his distinctive style that blends fantasy and baroque images with earthiness. Recognized as one of the greatest and most influential filmmakers of all time, his films rank highly in critical polls such as that of Cahiers du Cinéma and Sight & Sound, which lists his 1963 film 8½ as the 10th-greatest film of all time. Fellini's best-known films include I Vitelloni (1953), La Strada (1954), Nights of Cabiria (1957), La Dolce Vita (1960), 8½ (1963), Juliet of the Spirits (1965), the \"Toby Dammit\" segment of Spirits of the Dead (1968), Fellini Satyricon (1969), Roma (1972), Amarcord (1973), and Fellini's Casanova (1976).",
+    "biographySource": "https://en.wikipedia.org/wiki/Federico_Fellini",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "martin-scorsese",
+    "name": "Martin Scorsese",
+    "bio": "Martin Charles Scorsese ( skor-SESS-ee; Italian: ; born November 17, 1942) is an American filmmaker.",
+    "style": "Restless movement, music and subjective narration draw viewers into conflicted lives.",
+    "biography": "Martin Charles Scorsese ( skor-SESS-ee; Italian: ; born November 17, 1942) is an American filmmaker. One of the major figures of the New Hollywood era, he is widely considered one of the greatest and most influential directors in the history of cinema. He has received numerous accolades including an Academy Award, four British Academy Film Awards, three Emmy Awards, a Grammy Award, and three Golden Globes.",
+    "biographySource": "https://en.wikipedia.org/wiki/Martin_Scorsese",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "akira-kurosawa",
+    "name": "Akira Kurosawa",
+    "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades.",
+    "style": "Dynamic movement, weather and precisely arranged groups make moral conflict visible.",
+    "biography": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor.",
+    "biographySource": "https://en.wikipedia.org/wiki/Akira_Kurosawa",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "garry-marshall",
+    "name": "Garry Marshall",
+    "bio": "Garry Kent Marshall (November 13, 1934 – July 19, 2016) was an American screenwriter, director, producer and actor.",
+    "style": "Comic timing and approachable performances anchor stories about relationships and belonging.",
+    "biography": "Garry Kent Marshall (November 13, 1934 – July 19, 2016) was an American screenwriter, director, producer and actor. Marshall began his career in the 1960s as a writer for The Lucy Show and The Dick Van Dyke Show until he developed the television adaptation of Neil Simon's play The Odd Couple. He rose to fame in the 1970s for creating the ABC sitcom Happy Days (1974–1984).",
+    "biographySource": "https://en.wikipedia.org/wiki/Garry_Marshall",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "yasujiro-ozu",
+    "name": "Yasujiro Ozu",
+    "bio": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker.",
+    "style": "Low camera positions, pauses and everyday routines give quiet events emotional weight.",
+    "biography": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker. He began his career during the era of silent films, and his last films were made in colour in the early 1960s. Ozu first made a number of short comedies, before turning to more serious themes in the 1930s.",
+    "biographySource": "https://en.wikipedia.org/wiki/Yasujir%C5%8D_Ozu",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "danny-devito",
+    "name": "Danny DeVito",
+    "bio": "Daniel Michael DeVito Jr. ( də-VEE-toh; born November 17, 1944) is an American actor, comedian and filmmaker.",
+    "style": "Exaggeration and abrasive humour expose the destructive sides of everyday ambitions.",
+    "biography": "Daniel Michael DeVito Jr. ( də-VEE-toh; born November 17, 1944) is an American actor, comedian and filmmaker. Known for his short stature, raspy voice, distinct accent, and energetic comedy roles, he gained prominence for his portrayal of the taxi dispatcher Louie De Palma in the television series Taxi (1978–1983), which won him a Golden Globe Award and an Emmy Award. Since 2006, DeVito has played Frank Reynolds on the FX/FXX sitcom It's Always Sunny in Philadelphia.",
+    "biographySource": "https://en.wikipedia.org/wiki/Danny_DeVito",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "quentin-tarantino",
+    "name": "Quentin Tarantino",
+    "bio": "Quentin Jerome Tarantino ( TARR-ən-TEE-noh; born March 27, 1963) is an American filmmaker, actor, and author.",
+    "style": "Extended conversations and reordered timelines build anticipation around sudden shifts in violence.",
+    "biography": "Quentin Jerome Tarantino ( TARR-ən-TEE-noh; born March 27, 1963) is an American filmmaker, actor, and author. His works are characterized by graphic violence, extended dialogue often featuring much profanity, and references to popular culture. His films have earned a cult following alongside critical and commercial success, and he has been named by some as the most influential director of his generation.",
+    "biographySource": "https://en.wikipedia.org/wiki/Quentin_Tarantino",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "alexander-payne",
+    "name": "Alexander Payne",
+    "bio": "Constantine Alexander Payne (born February 10, 1961) is an American filmmaker.",
+    "style": "Dry humour and unglamorous journeys make disappointment and vulnerability unusually visible.",
+    "biography": "Constantine Alexander Payne (born February 10, 1961) is an American filmmaker. He is noted for his satirical depictions of contemporary American society. Payne has received numerous accolades, including two Academy Awards, a BAFTA Award, and two Golden Globe Awards, as well as a nomination for a Grammy Award.",
+    "biographySource": "https://en.wikipedia.org/wiki/Alexander_Payne",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jerry-zucker",
+    "name": "Jerry Zucker",
+    "bio": "Jerry Gordon Zucker (born March 11, 1950) is an American filmmaker.",
+    "style": "Direct emotional storytelling makes room for both comic interruption and sentiment.",
+    "biography": "Jerry Gordon Zucker (born March 11, 1950) is an American filmmaker. With his brother David and Jim Abrahams, he is part of the filmmaking trio Zucker, Abrahams and Zucker. He is best known for his role in writing and directing comedy spoof films like Airplane! (1980) and Top Secret!",
+    "biographySource": "https://en.wikipedia.org/wiki/Jerry_Zucker",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "herbert-ross",
+    "name": "Herbert Ross",
+    "bio": "Herbert David Ross (May 13, 1927 – October 9, 2001) was an American choreographer, director, and producer, who was active in both theatre and film.",
+    "style": "Movement and performance make emotional conflict part of the physical scene.",
+    "biography": "Herbert David Ross (May 13, 1927 – October 9, 2001) was an American choreographer, director, and producer, who was active in both theatre and film. He was known for his work on Broadway as a choreographer for productions for Barbra Streisand, Stephen Sondheim, Richard Rodgers, and Arthur Laurents. His credits included A Tree Grows in Brooklyn in 1951, Finian's Rainbow in 1960, I Can Get It for You Wholesale in 1962, and Do I Hear a Waltz? in 1965.",
+    "biographySource": "https://en.wikipedia.org/wiki/Herbert_Ross",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "david-fincher",
+    "name": "David Fincher",
+    "bio": "David Andrew Leo Fincher (born August 28, 1962) is an American filmmaker.",
+    "style": "Controlled images and accumulating details create worlds shaped by obsession and uncertainty.",
+    "biography": "David Andrew Leo Fincher (born August 28, 1962) is an American filmmaker. Often described as one of the pre-eminent directors of his generation, his films have collectively grossed over $2.1 billion worldwide. Fincher has received numerous accolades, including nominations for three Academy Awards as well as a BAFTA Award, a Golden Globe Award, four Primetime Emmy Awards, and two Grammy Awards.",
+    "biographySource": "https://en.wikipedia.org/wiki/David_Fincher",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jim-sheridan",
+    "name": "Jim Sheridan",
+    "bio": "Jim Sheridan (born 6 February 1949) is an Irish filmmaker.",
+    "style": "Close attention to performance places political pressures within personal relationships.",
+    "biography": "Jim Sheridan (born 6 February 1949) is an Irish filmmaker. Between 1989 and 1993, Sheridan directed three critically acclaimed films set in Ireland, My Left Foot (1989), The Field (1990), and In the Name of the Father (1993), and later directed the films The Boxer (1997), In America (2003), and Brothers (2009). Sheridan has received six Academy Award nominations for his work.",
+    "biographySource": "https://en.wikipedia.org/wiki/Jim_Sheridan",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "francis-ford-coppola",
+    "name": "Francis Ford Coppola",
+    "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker.",
+    "style": "Family relationships and institutions become stages for struggles over loyalty and power.",
+    "biography": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. He has received various accolades including five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, as well as nominations for two Emmy Awards and a Grammy Award.",
+    "biographySource": "https://en.wikipedia.org/wiki/Francis_Ford_Coppola",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "allan-moyle",
+    "name": "Allan Moyle",
+    "bio": "Allan Moyle (born 1947) is a Canadian film director, writer, and actor.",
+    "style": "Music and outsider perspectives give adolescent frustration a public voice.",
+    "biography": "Allan Moyle (born 1947) is a Canadian film director, writer, and actor. He is best known for directing the films Times Square (1980), Pump Up the Volume (1990), Empire Records (1995), and New Waterford Girl (1999) .",
+    "biographySource": "https://en.wikipedia.org/wiki/Allan_Moyle",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "victor-fleming",
+    "name": "Victor Fleming",
+    "bio": "Victor Lonzo Fleming (February 23, 1889 – January 6, 1949) was an American film director, cinematographer, and producer.",
+    "style": "Large-scale storytelling brings performance, spectacle and heightened emotion together.",
+    "biography": "Victor Lonzo Fleming (February 23, 1889 – January 6, 1949) was an American film director, cinematographer, and producer. His most popular films were the historical drama Gone with the Wind, for which he won an Academy Award for Best Director, and the fantasy film The Wizard of Oz (both 1939). Fleming has those same two films listed in the top 10 of the American Film Institute's 2007 AFI's 100 Years...100 Movies list.",
+    "biographySource": "https://en.wikipedia.org/wiki/Victor_Fleming",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "steven-spielberg",
+    "name": "Steven Spielberg",
+    "bio": "Steven Allan Spielberg (; born December 18, 1946) is an American filmmaker.",
+    "style": "Carefully staged viewpoints connect large spectacles with personal fear and wonder.",
+    "biography": "Steven Allan Spielberg (; born December 18, 1946) is an American filmmaker. A major figure of the New Hollywood era and pioneer of the modern blockbuster, Spielberg is widely regarded as one of the greatest and most influential filmmakers in the history of cinema and is the highest-grossing film director of all time, with his films having earned almost $11 billion worldwide. Among other accolades, he has received three Academy Awards, four Golden Globe Awards, four BAFTA Awards, twelve Emmy Awards, a Tony Award, and a Grammy Award, as well as the AFI Life Achievement Award in 1995, an honorary knighthood in 2001, the Kennedy Center Honor in 2006, the Cecil B.",
+    "biographySource": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "sam-mendes",
+    "name": "Sam Mendes",
+    "bio": "Sir Samuel Alexander Mendes (born 1 August 1965) is an English filmmaker and stage director.",
+    "style": "Composed spaces and precise performances reveal pressures beneath ordered surfaces.",
+    "biography": "Sir Samuel Alexander Mendes (born 1 August 1965) is an English filmmaker and stage director. Mendes was appointed a CBE for his services to drama in 2000, and he was knighted in 2020 by Queen Elizabeth II. Known for his directorial work on stage and screen, he has received various accolades including an Academy Award, five BAFTA Awards, two Golden Globe Awards, three Olivier Awards and two Tony Awards.",
+    "biographySource": "https://en.wikipedia.org/wiki/Sam_Mendes",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "joel-schumacher",
+    "name": "Joel Schumacher",
+    "bio": "Joel T.",
+    "style": "Expressive lighting and heightened environments intensify the pressure on his characters.",
+    "biography": "Joel T. Schumacher (; August 29, 1939 – June 22, 2020) was an American filmmaker. During a four-decade career, he directed more than 20 feature length films that spanned various genres.",
+    "biographySource": "https://en.wikipedia.org/wiki/Joel_Schumacher",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "ingmar-bergman",
+    "name": "Ingmar Bergman",
+    "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish filmmaker and theatre director.",
+    "style": "Close-ups and concentrated conversations make small gestures feel consequential.",
+    "biography": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish filmmaker and theatre director. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\" Among his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time.",
+    "biographySource": "https://en.wikipedia.org/wiki/Ingmar_Bergman",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "gus-van-sant",
+    "name": "Gus Van Sant",
+    "bio": "Gus Green Van Sant Jr. (born July 24, 1952) is an American filmmaker, photographer, painter, and musician.",
+    "style": "Attention to outsiders and everyday spaces runs through very different storytelling forms.",
+    "biography": "Gus Green Van Sant Jr. (born July 24, 1952) is an American filmmaker, photographer, painter, and musician. He has earned acclaim as an independent filmmaker, and is considered to be one of the most prominent auteurs of the new queer cinema movement. His films typically deal with themes of marginalized subcultures, especially within gay culture.",
+    "biographySource": "https://en.wikipedia.org/wiki/Gus_Van_Sant",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "stanley-kubrick",
+    "name": "Stanley Kubrick",
+    "bio": "Stanley Kubrick (July 26, 1928 – March 7, 1999) was an American filmmaker and photographer.",
+    "style": "Precise compositions and controlled environments turn familiar worlds into unsettling systems.",
+    "biography": "Stanley Kubrick (July 26, 1928 – March 7, 1999) was an American filmmaker and photographer. A prominent figure of the New Hollywood era, Kubrick is regarded as one of the greatest and most influential filmmakers. His films spanned a number of genres and gained recognition for their attention to detail, innovative cinematography, extensive set design, and dark humor.",
+    "biographySource": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "peter-cattaneo",
+    "name": "Peter Cattaneo",
+    "bio": "Peter Joseph Cattaneo MBE (born 1 July 1964) is a British filmmaker.",
+    "style": "Ensemble interactions allow humour and social frustration to occupy the same scene.",
+    "biography": "Peter Joseph Cattaneo MBE (born 1 July 1964) is a British filmmaker. He is best known for directing the comedy film The Full Monty, for which he won the MTV Movie Award for Best New Filmmaker and was nominated for the Academy Award for Best Director.",
+    "biographySource": "https://en.wikipedia.org/wiki/Peter_Cattaneo",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "james-cameron",
+    "name": "James Cameron",
+    "bio": "James Francis Cameron (born August 16, 1954) is a Canadian filmmaker and explorer.",
+    "style": "Detailed worlds and clear physical stakes connect spectacle with emotional commitment.",
+    "biography": "James Francis Cameron (born August 16, 1954) is a Canadian filmmaker and explorer. His films combine cutting-edge film technology with classical filmmaking techniques and have grossed over $10 billion worldwide, making him the second highest-grossing film director of all time. A major figure in the post-New Hollywood era, Cameron has received numerous accolades including three Academy Awards, two Primetime Emmy Awards, and four Golden Globe Awards, as well as nominations for six British Academy Film Awards.",
+    "biographySource": "https://en.wikipedia.org/wiki/James_Cameron",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "wong-kar-wai",
+    "name": "Wong Kar Wai",
+    "bio": "Wong Kar-wai (born 17 July 1958) is a Hong Kong filmmaker.",
+    "style": "Expressive colour, fragmented time and music turn urban spaces into emotional landscapes.",
+    "biography": "Wong Kar-wai (born 17 July 1958) is a Hong Kong filmmaker. His films are characterised by nonlinear narratives, atmospheric music, and vivid cinematography with bold, saturated colours. An auteur of Hong Kong cinema, Wong frequently appears at international film festivals.",
+    "biographySource": "https://en.wikipedia.org/wiki/Wong_Kar-wai",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "claire-denis",
+    "name": "Claire Denis",
+    "bio": "Claire Denis (; French: ; born 21 April 1946) is a French film director and screenwriter.",
+    "style": "Bodies, music and fragmentary encounters often carry meaning beyond direct explanation.",
+    "biography": "Claire Denis (; French: ; born 21 April 1946) is a French film director and screenwriter. Her feature film Beau Travail (1999) has been called one of the greatest films of the 1990s and of all time. Her work has dealt with themes of colonial and post-colonial West Africa, as well as issues in modern France, and continues to influence European cinematic identity.",
+    "biographySource": "https://en.wikipedia.org/wiki/Claire_Denis",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "carol-reed",
+    "name": "Carol Reed",
+    "bio": "Sir Carol Reed (30 December 1906 – 25 April 1976) was an English film director and producer.",
+    "style": "Expressive locations and oblique compositions make environments part of the story.",
+    "biography": "Sir Carol Reed (30 December 1906 – 25 April 1976) was an English film director and producer. Considered one of the foremost British filmmakers of the post-World War II era, he achieved prominence in the late 1940s for his film noir thrillers Odd Man Out (1947), The Fallen Idol (1948), and The Third Man (1949). Odd Man Out was the first recipient of the BAFTA Award for Best British Film.",
+    "biographySource": "https://en.wikipedia.org/wiki/Carol_Reed",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "peter-jackson",
+    "name": "Peter Jackson",
+    "bio": "Sir Peter Robert Jackson (born 31 October 1961) is a New Zealand filmmaker.",
+    "style": "Detailed imagined worlds and interwoven journeys give adventure a sense of shared purpose.",
+    "biography": "Sir Peter Robert Jackson (born 31 October 1961) is a New Zealand filmmaker. He is best known as the director, screen-writer, and producer of the Lord of the Rings trilogy (2001–2003) and the Hobbit trilogy (2012–2014), both of which are adapted from the novels of the same name by J. R.",
+    "biographySource": "https://en.wikipedia.org/wiki/Peter_Jackson",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "christopher-nolan",
+    "name": "Christopher Nolan",
+    "bio": "Sir Christopher Edward Nolan (born 30 July 1970) is a British and American filmmaker.",
+    "style": "Restricted knowledge asks the viewer to actively reconstruct the order of events.",
+    "biography": "Sir Christopher Edward Nolan (born 30 July 1970) is a British and American filmmaker. Known for his Hollywood blockbusters with complex storytelling, Nolan is considered a leading filmmaker of the 21st century. His films have earned over $8 billion worldwide, making him the third-highest-grossing film director of all time.",
+    "biographySource": "https://en.wikipedia.org/wiki/Christopher_Nolan",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "wolfgang-petersen",
+    "name": "Wolfgang Petersen",
+    "bio": "Wolfgang Petersen (14 March 1941 – 12 August 2022) was a German film and television director, screenwriter and producer.",
+    "style": "Confined spaces and escalating threats shape his approach to suspense.",
+    "biography": "Wolfgang Petersen (14 March 1941 – 12 August 2022) was a German film and television director, screenwriter and producer. His international breakthrough was the war film Das Boot (1981), which earned him Academy Award nominations for Best Director and Best Adapted Screenplay. He subsequently directed the blockbuster fantasy film The NeverEnding Story (1984), based on the 1979 novel of the same name.",
+    "biographySource": "https://en.wikipedia.org/wiki/Wolfgang_Petersen",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "sofia-coppola",
+    "name": "Sofia Coppola",
+    "bio": "Sofia Carmina Coppola ( KOH-pə-lə; born May 14, 1971 in New York) is an American filmmaker and former actress.",
+    "style": "Atmosphere, music and pauses communicate feelings that characters struggle to articulate.",
+    "biography": "Sofia Carmina Coppola ( KOH-pə-lə; born May 14, 1971 in New York) is an American filmmaker and former actress. She has received various accolades, including an Academy Award, two Golden Globe Awards, a Golden Lion, and a Cannes Film Festival Award as well as nominations for three BAFTA Awards and a Primetime Emmy Award. Her parents are filmmakers Eleanor and Francis Ford Coppola, and she made her acting debut as an infant in her father's acclaimed crime drama The Godfather (1972).",
+    "biographySource": "https://en.wikipedia.org/wiki/Sofia_Coppola",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "richard-donner",
+    "name": "Richard Donner",
+    "bio": "Richard Donner (born Richard Donald Schwartzberg; April 24, 1930 – July 5, 2021) was an American filmmaker.",
+    "style": "Brisk storytelling and ensemble chemistry keep large adventures grounded in companionship.",
+    "biography": "Richard Donner (born Richard Donald Schwartzberg; April 24, 1930 – July 5, 2021) was an American filmmaker. Described as \"one of Hollywood's most reliable makers of action blockbusters\", Donner directed some of the most financially successful films of the 1970s and 1980s. His career spanning more than six decades crossed genres and influenced trends among filmmakers across the world.",
+    "biographySource": "https://en.wikipedia.org/wiki/Richard_Donner",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "mike-nichols",
+    "name": "Mike Nichols",
+    "bio": "Mike Nichols (born Igor Mikhail Peschkowsky; November 6, 1931 – November 19, 2014) was an American film and theatre director and comedian.",
+    "style": "Shifting alliances and carefully timed exchanges make relationships the centre of the frame.",
+    "biography": "Mike Nichols (born Igor Mikhail Peschkowsky; November 6, 1931 – November 19, 2014) was an American film and theatre director and comedian. He worked across a range of genres and had an aptitude for getting the best out of actors regardless of their experience. He is one of 28 people to have won all four of the major American entertainment awards: Emmy, Grammy, Oscar, and Tony (EGOT).",
+    "biographySource": "https://en.wikipedia.org/wiki/Mike_Nichols",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "andrew-davis",
+    "name": "Andrew Davis",
+    "bio": "Andrew or Andy Davis may refer to:",
+    "style": "Chases, city spaces and intersecting motives keep narrative information in motion.",
+    "biography": "Andrew or Andy Davis may refer to:",
+    "biographySource": "https://en.wikipedia.org/wiki/Andrew_Davis",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "spike-lee",
+    "name": "Spike Lee",
+    "bio": "Shelton Jackson \"Spike\" Lee (born March 20, 1957) is an American filmmaker and actor.",
+    "style": "Direct address, charged colour and shifting viewpoints give public space dramatic force.",
+    "biography": "Shelton Jackson \"Spike\" Lee (born March 20, 1957) is an American filmmaker and actor. Cited by various publications as one of the most important filmmakers of the late 20th century, his work explores issues including race relations, issues within the black community, the role of media in contemporary life, urban crime and poverty. Lee has received numerous accolades including an Academy Award, a British Academy Film Award, and four Emmy Awards, as well as nominations for three Golden Globe Awards and a Grammy Award.",
+    "biographySource": "https://en.wikipedia.org/wiki/Spike_Lee",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "jonathan-dayton-and-valerie-faris",
+    "name": "Jonathan Dayton and Valerie Faris",
+    "bio": "Jonathan Dayton (born July 7, 1957) and Valerie Faris (born October 20, 1958) are two American directors and producers for films and music videos.",
+    "style": "Ensemble performances and carefully observed discomfort allow comedy and tenderness to coexist.",
+    "biography": "Jonathan Dayton (born July 7, 1957) and Valerie Faris (born October 20, 1958) are two American directors and producers for films and music videos. They started their career directing videos for such artists as Red Hot Chili Peppers, R.E.M. and the Smashing Pumpkins. Together they directed the films Little Miss Sunshine (2006), Ruby Sparks (2012), and Battle of the Sexes (2017).",
+    "biographySource": "https://en.wikipedia.org/wiki/Jonathan_Dayton_and_Valerie_Faris",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "robert-zemeckis",
+    "name": "Robert Zemeckis",
+    "bio": "Robert Lee Zemeckis (born May 14, 1951), sometimes called Bob Zemeckis, is an American filmmaker.",
+    "style": "Clear narrative setups and playful visual construction link spectacle to character decisions.",
+    "biography": "Robert Lee Zemeckis (born May 14, 1951), sometimes called Bob Zemeckis, is an American filmmaker. Known for directing and producing a range of successful and influential films that often blend cutting-edge visual effects with storytelling in the late 20th century, he has received accolades such as an Academy Award and a Golden Globe Award, as well as nominations for five British Academy Film Awards and a Daytime Emmy Award. Zemeckis gained some recognition for his short film A Field of Honor (1973), which earned him a Student Academy Award for Special Jury Prize at USC.",
+    "biographySource": "https://en.wikipedia.org/wiki/Robert_Zemeckis",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "david-lynch",
+    "name": "David Lynch",
+    "bio": "David Keith Lynch (January 20, 1946 – January 16, 2025) was an American filmmaker and artist.",
+    "style": "Unstable identities, charged sound and abrupt shifts in tone make everyday appearances difficult to trust.",
+    "biography": "David Keith Lynch (January 20, 1946 – January 16, 2025) was an American filmmaker and artist.",
+    "biographySource": "https://en.wikipedia.org/wiki/David_Lynch",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  },
+  {
+    "id": "adrian-lyne",
+    "name": "Adrian Lyne",
+    "bio": "Adrian Lyne (born 4 March 1941) is an English film director.",
+    "style": "Expressive light and heightened intimacy turn private spaces into charged environments.",
+    "biography": "Adrian Lyne (born 4 March 1941) is an English film director. His films are known for sexually charged narratives that explore conflicting passions, the power of seduction, moral ambiguity, betrayal, and the indelibility of infidelity. In the mid 1970s, he directed television commercials for DIM Lingerie (France), before switching to feature-length films in 1980 with Foxes.",
+    "biographySource": "https://en.wikipedia.org/wiki/Adrian_Lyne",
+    "biographyLicense": "CC BY-SA 4.0; adapted Wikipedia excerpt"
+  }
+]
