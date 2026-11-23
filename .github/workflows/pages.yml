@@ -1,0 +1,59 @@
+name: Check and deploy FRAME No. 1
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "20 7,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Refresh film headlines
+        run: python3 scripts/update_news.py
+        continue-on-error: true
+
+      - name: Check files and links
+        run: python3 tests/check_static.py
+
+      - name: Check website functionality
+        run: |
+          node --check js/app.js
+          node --check js/checklists.js
+          node --check data/films.js
+          node --check data/collections.js
+          node tests/check_journal.cjs
+          node tests/check_lists.cjs
+
+      - uses: actions/configure-pages@v5
+
+      - name: Prepare website
+        run: |
+          mkdir _site
+          cp *.html _site/
+          cp -r assets css data js _site/
+          cp -r films directors articles _site/
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - uses: actions/deploy-pages@v4
+        id: deployment
