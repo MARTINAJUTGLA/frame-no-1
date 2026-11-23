@@ -1,0 +1,10 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),path=require('node:path');
+const root=path.resolve(__dirname,'..'),films=JSON.parse(fs.readFileSync(path.join(root,'data/films.json'),'utf8'));
+const saved=JSON.stringify([{id:'my-list',name:'Films <2026>',entries:[{id:'a',title:'Archive entry',filmId:films[0].id,year:2000,watched:false},{id:'b',title:'Manual <film>',year:2020,watched:false}]}]);
+let click,printed='',removed=false,classes=new Set();
+const body={dataset:{base:'./'},append(sheet){this.sheet=sheet},classList:{add(c){classes.add(c)},remove(c){classes.delete(c)}}};
+const context={document:{body,getElementById(){return null},addEventListener(name,fn){if(name==='click')click=fn},createElement(){return {innerHTML:'',remove(){removed=true}}}},window:{FRAME_FILMS:films,FRAME_COLLECTIONS:[],FRAME_JOURNAL:{isWatched:id=>id===films[0].id},addEventListener(){},print(){assert(classes.has('printing-checklist'));printed=body.sheet.innerHTML}},localStorage:{getItem(){return saved},setItem(){throw Error('Printing must not write journal data')}},console};
+vm.runInNewContext(fs.readFileSync(path.join(root,'js/checklists.js'),'utf8'),context);
+click({target:{closest:s=>s==='[data-print-list]'?{dataset:{printList:'my-list'}}:null}});
+assert.match(printed,/Films &lt;2026&gt;/);assert.match(printed,/Manual &lt;film&gt;/);assert.match(printed,/1 of 2 watched/);assert.match(printed,/☑/);assert.match(printed,/☐/);assert.match(printed,new RegExp(films[0].title));assert(removed);assert(!classes.has('printing-checklist'));
+console.log('PASS: printable list uses current watched status, escapes titles, includes manual entries, cleans up, and does not alter stored data.');
